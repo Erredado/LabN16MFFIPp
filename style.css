@@ -1,0 +1,22 @@
+.formulario{
+    width: 320px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #21588b;
+    border-radius: 12px;
+    box-shadow: 2px 2px 20px rgba(0,0,0,0.1);
+    background-color: #b9cada;
+}
+.formulario input, .formulario button{
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+}
+.ver-imagen{
+    width: 120px;
+    height: 120;
+    border-radius: 10%;
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #e6c3c3;
+}
