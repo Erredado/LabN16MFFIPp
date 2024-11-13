@@ -7,7 +7,7 @@
     box-shadow: 2px 2px 20px rgba(0,0,0,0.1);
     background-color: #b9cada;
 }
-.formulario input, .formulario button{
+.form input, .form button{
     width: 95%;
     padding: 10px;
     margin: 10px;
